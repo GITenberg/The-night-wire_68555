@@ -1,0 +1,32 @@
+_repo: The-night-wire_68555
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Arnold, H. F. (Henry Ferris)
+    alias: Arnold, Henry Ferris
+    birthdate: 1902
+    deathdate: 1963
+    gutenberg_agent_id: '54825'
+    url: http://www.gutenberg.org/2009/agents/54825
+description: ''
+gutenberg_issued: '2022-07-18'
+identifiers:
+  gutenberg: '68555'
+language: en
+pgterms:marc904: https://archive.org/details/WeirdTalesV08N03192609
+pgterms:marc905: 20220712210315arnold
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Roger Frank
+publication_note: United States :Popular Fiction Publishing Company,1926.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'News agencies -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Horror tales'
+- !lcc 'PS'
+- GITenberg
+title: The night wire
+url: http://www.gutenberg.org/ebooks/68555
